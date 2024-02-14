@@ -1,12 +1,23 @@
-# Sr Technical Architect, SME 
+
+# Tech Architecture Sr Manager
 
 ## :pushpin: Summary
-The role of Technical Architect/Subject Matter Expert (SME) includes evaluating and verifying customised solutions, guiding projects within product boundaries, improving the product through active contribution and cultivating new SMEs.
 
-Responsibilities also include conducting customer meetings to present / advocate proposed solutions and monitoring the effectiveness of implemented solutions. 
+TA Sr. Manager  is responsible for overseeing the effective delivery of projects, ensuring they are completed on time and meet the required quality standards. This individual manages and fosters the growth and development of team members, providing guidance and support to enhance their skills and career progression. 
+
+Additionally, the Tech Manager serves as an escalation point for addressing and resolving any technical issues or challenges that arise during project execution.
+
+
+    - Exercises full managerial leadership, including performance appraisal, hiring, resignations/terminations, and other personnel-related actions
+    - Makes sure Operational KPIs targets (utilization, billability) are met for the resources in scope, owns corrective action plans
+    - May lead technical groups or projects and serve as a resource for best practices and quality
+    - Solves problems that go beyond the team based on knowledge of related disciplines
+    - Intervenes on critical escalations from Clients (up to Director Level) and mitigate the impact on time, budget, and quality in collaboration with the Program Director
 
 
 ## :bank: Stakeholders
+
+* Technical Design Directors
 
 * Customer Success Managers/Directors
 
@@ -19,41 +30,17 @@ Responsibilities also include conducting customer meetings to present / advocate
 
 ## :white_check_mark: Definition of Done
 
-**Solution Assurance** 
+**Exercises Full Managerial Leadership**
 
-> Evaluation and validation of custom solutions to ensure adherence to
- technical and product guidelines.
+> You foster motivation and growth within your team, deeply understanding each member's motivations, strengths, and development areas.
 
- - [ ] All the complex project solutions has been fully reviewed against the project's technical requirements and product guidelines.
+ - [ ] A comprehensive assessment of each team member’s motivations, strengths, and development areas is to be completed and updated at least every 2 months.
 
- - [ ] Ensured a seamless upgrade path for the custom solution with respect to future versions of our product.
-
- - [ ] If there are disagreements with the client over the proposed solution, clear communication is made regarding the risks and future impacts.
+ - [ ]  Problems and inefficiencies are looked for and elegant solutions are found before they become major issues
+ - [ ] The team is structured so that the right people are in the right roles, with clearly defined responsibilities and expectations
 
 
-**Product orientation** 
-
-> steering project efforts towards leveraging pre-existing solutions and product features to enhance efficiency and maintain uniformity
-
-- [ ] A comprehensive inventory of existing custom solutions has been conducted, documented and constantly updated.
-
- - [ ] For any new customization, a clear justification that outlines the necessity and the absence of existing feature capabilities has been documented.
-
- - [ ] An analysis has been completed to assess the added complexity due to new customization. Mitigation strategies are in place to manage and minimize the identified complexity.
-
- - [ ] Several initiatives have been launched to raise awareness among the practice's team members about focusing on product functionalities, with the aim of disseminating knowledge and approaches.
-
-**Customer Facing** 
-
-> Facilitating client discussions to articulate and advocate for the proposed solutions, offering technical assistance, and responding to queries
-
- - [ ] If there are any doubts about the proposed technical solution, the Technical Architect is available to clarify the reasons with the customer.
-
- - [ ] The proposed solutions have been clearly articulated and presented to the client, with visual aids or demonstrations as needed.
-
- - [ ] A log of queries and responses is maintained for future reference and continuous improvement.
-
-**Growth of the team** 
+**Intervention in Critical Client Escalations:**
 
 > Training new Technical Architects through various initiatives, such as on-the-job training, and the collection and dissemination of appropriate technical knowledge
 
@@ -64,7 +51,7 @@ Responsibilities also include conducting customer meetings to present / advocate
 
  - [ ] Individuals have been selected to pursue a journey toward becoming Technical Architects, and a tailored technical development program has been established for them.
 
-**Partner evangelist** 
+**Project Delivery Oversight**
 
 > Helps partners adopt and maximise the benefits of our platform offerings
 
@@ -74,7 +61,7 @@ Responsibilities also include conducting customer meetings to present / advocate
 
  - [ ] Necessary improvements have been identified and implemented based on partner feedback.
 
-**Product contribution** 
+**Growth and Development of Team Members**
 
 > Suggestion of new features based on feedback from the projects, improvement of the user experience, performance optimisation, bug fixing and user-driven refinement
 
@@ -82,16 +69,17 @@ Responsibilities also include conducting customer meetings to present / advocate
 
  - [ ] Product performance bottlenecks were identified and pro-actively shared with the product team.
 
-**Solution Impact Analysis** 
 
-> Tracking and appraising the performance of deployed solutions, collecting user feedback, and proposing necessary refinements for enhancement
 
- - [ ] Specific, measurable performance metrics for the deployed solutions have been defined and agreed upon.
+**Problem Solving Beyond Team Scope**
 
- - [ ] A monitoring plan has been established to observe the solution's performance and quickly identify any issues post-deployment.
+> Facilitating client discussions to articulate and advocate for the proposed solutions, offering technical assistance, and responding to queries
 
- - [ ] Based on performance data and user feedback, a list of proposed refinements for the solution has been developed
+ - [ ] If there are any doubts about the proposed technical solution, the Technical Architect is available to clarify the reasons with the customer.
 
+ - [ ] The proposed solutions have been clearly articulated and presented to the client, with visual aids or demonstrations as needed.
+
+ - [ ] A log of queries and responses is maintained for future reference and continuous improvement.
 
 
 ## 🎯 Self management / Focus
