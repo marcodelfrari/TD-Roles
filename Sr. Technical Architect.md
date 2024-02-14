@@ -5,6 +5,14 @@ The role of Technical Architect/Subject Matter Expert (SME) includes evaluating 
 
 Responsibilities also include conducting customer meetings to present / advocate proposed solutions and monitoring the effectiveness of implemented solutions. 
 
+From Career Framework:
+- Owns and defines the solution of a complex portfolio of medium-to-large-sized complex projects/programs 
+- Acts as an expert in the discipline, not only influencing CSG but also other departments
+- May lead Technical groups or projects and serve as a resource for best practices and quality
+- Trains/mentors younger staff members
+- Manages critical situations with the Clients (up to Director Level) and mitigates impact on time, budget and quality
+- Handles complex Business requirements and scenarios with customer-facing
+
 
 ## :bank: Stakeholders
 
