@@ -43,45 +43,20 @@ From Career Framework:
 
 **Intervention in Critical Client Escalations:**
 
-> Training new Technical Architects through various initiatives, such as on-the-job training, and the collection and dissemination of appropriate technical knowledge
-
-
- - [ ] A comprehensive training program for Technical Architects has been developed, including on-the-job training modules and key technical knowledge areas.
-
- - [ ] Feedback has been collected from trainees on the training experience and content.
-
- - [ ] Individuals have been selected to pursue a journey toward becoming Technical Architects, and a tailored technical development program has been established for them.
+ 
 
 **Project Delivery Oversight**
 
-> Helps partners adopt and maximise the benefits of our platform offerings
-
- - [ ] Onboarding success is measured by partners' ability to navigate and use the platform independently.
-
- - [ ] The effectiveness of training programs for partners has been evaluated through assessments or surveys.
-
- - [ ] Necessary improvements have been identified and implemented based on partner feedback.
+ 
 
 **Growth and Development of Team Members**
 
-> Suggestion of new features based on feedback from the projects, improvement of the user experience, performance optimisation, bug fixing and user-driven refinement
-
- - [ ] A prioritized list of these suggestions has been created based on potential impact and alignment with product strategy.
-
- - [ ] Product performance bottlenecks were identified and pro-actively shared with the product team.
-
+ 
 
 
 **Problem Solving Beyond Team Scope**
 
-> Facilitating client discussions to articulate and advocate for the proposed solutions, offering technical assistance, and responding to queries
-
- - [ ] If there are any doubts about the proposed technical solution, the Technical Architect is available to clarify the reasons with the customer.
-
- - [ ] The proposed solutions have been clearly articulated and presented to the client, with visual aids or demonstrations as needed.
-
- - [ ] A log of queries and responses is maintained for future reference and continuous improvement.
-
+ 
 
 ## 🎯 Self management / Focus
 
