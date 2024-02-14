@@ -1,44 +1,47 @@
-# Senior Developer II
+# Sr Technical Architect, SME 
+
+## :pushpin: Summary
+The role of Technical Architect/Subject Matter Expert (SME) includes evaluating and verifying customised solutions, guiding projects within product boundaries, improving the product through active contribution and cultivating new SMEs.
+
+'Responsibilities also include conducting customer meetings to present / advocate proposed solutions and monitoring the effectiveness of implemented solutions. 
 
 
-## 💻 Tech
+## :bank: Stakeholders
 
-**Expertise in our "core" languages and frameworks**
-* You have deep knowledge of one of our core languages (Ruby, JavaScript, Dart), reaching to its internal workings. You have a solid understanding of at least a second one (Ruby, Javascript, Dart, Elixir)
-* You have deep knowledge of the frameworks we use (Ruby on Rails, React, or Flutter), reaching to their internal workings.
+* Customer Success Managers
 
-**Expertise in infrastructure and tooling**
-* You have a deep understanding of the core technologies (like the HTTP protocol, relational databases, …) and know them enough to unblock team members
-* You take responsibilities in the support channel and do deployments
-* You drive improvements to our tooling and infrastructure setup.
+* Product Managers/Architects
 
-**Ability to explore and master a new technical topic**
-* You are able to research a new library of substantial size / complexity and integrate it into our application.
-* You can debug a library that we use by analysing its code, open issues and submit PRs.
+* Developer Leads/Managers
 
-**Know what else is out there**
-* You are interested in how other companies are solving similar problems and comparing our solutions with theirs.
-* You keep on top of cutting-edge developments related to our core technologies and the wider industry.
+* Technical Analysts
 
-**Write readable and maintainable code / solutions**
-* Your PRs are of very good quality on first try and usually don't require a lot of changes to be excellent.
-* You think of most of the edge cases and include tests for them.
-* You reliably take performance and security implications of PRs into account.
-* You can justify your decisions and articulate the trade-offs between different approaches.
-* You can translate a business requirement into a concrete technical solution.
 
-**Managing technical debt**
-* You are able to identify areas of the codebase in need of refactoring and come up with solutions.
-* You are comfortable making judgments about the long-term health of the codebase and prioritizing tasks
+## :white_check_mark: Definition of Done
 
-**Initiate positive change**
-* You point out areas that need improvement and suggest good solutions as a starting point for discussion. You look for the best solution within the team.
-* You contribute to the long-term technical direction of our products and projects
+**Solution Assurance:** 
 
-**Source control**
-* You know how to maintain multiple branches you work on, rebase a branch, squash commits.
-* You can troubleshoot git problems of your colleagues.
+> Evaluation and validation of custom solutions to ensure adherence to
+ technical and product guidelines.
 
+ - [ ] All the complex project solutions has been fully reviewed against the project's technical requirements and product guidelines.
+
+ - [ ] Ensuring a seamless upgrade path for the custom solution with respect to future versions of our product is essential.
+
+ - [ ] If there are disagreements with the client over the proposed solution, clear communication is made regarding the risks and future impacts.
+
+
+**Product orientation:** 
+
+> steering project efforts towards leveraging pre-existing solutions and product features to enhance efficiency and maintain uniformity
+
+- [ ] A comprehensive inventory of existing custom solutions has been conducted, documented and constantly updated.
+
+ - [ ] For any new customization, a clear justification that outlines the necessity and the absence of existing feature capabilities has been documented.
+
+ - [ ] An analysis has been completed to assess the added complexity due to new customization. Mitigation strategies are in place to manage and minimize the identified complexity.
+
+ - [ ] Several initiatives have been launched to raise awareness among the practice's team members about focusing on product functionalities, with the aim of disseminating knowledge and approaches.
 
 ## 🎯 Self management / Focus
 
