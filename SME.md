@@ -26,7 +26,7 @@ The role of Technical Architect/Subject Matter Expert (SME) includes evaluating 
 
  - [ ] All the complex project solutions has been fully reviewed against the project's technical requirements and product guidelines.
 
- - [ ] Ensuring a seamless upgrade path for the custom solution with respect to future versions of our product is essential.
+ - [ ] Ensured a seamless upgrade path for the custom solution with respect to future versions of our product.
 
  - [ ] If there are disagreements with the client over the proposed solution, clear communication is made regarding the risks and future impacts.
 
