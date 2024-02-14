@@ -8,11 +8,11 @@ The role of Technical Architect/Subject Matter Expert (SME) includes evaluating 
 
 ## :bank: Stakeholders
 
-* Customer Success Managers
+* Customer Success Managers/Directors
+
+* Developer Managers/Directors
 
 * Product Managers/Architects
-
-* Developer Leads/Managers
 
 * Technical Analysts
 
