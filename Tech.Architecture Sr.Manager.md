@@ -8,6 +8,7 @@ TA Sr. Manager  is responsible for overseeing the effective delivery of projects
 Additionally, the Tech Manager serves as an escalation point for addressing and resolving any technical issues or challenges that arise during project execution.
 
 From Career Framework:
+
     - Exercises full managerial leadership, including performance appraisal, hiring, resignations/terminations, and other personnel-related actions
     - Makes sure Operational KPIs targets (utilization, billability) are met for the resources in scope, owns corrective action plans
     - May lead technical groups or projects and serve as a resource for best practices and quality
