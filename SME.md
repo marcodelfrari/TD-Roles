@@ -3,7 +3,7 @@
 ## :pushpin: Summary
 The role of Technical Architect/Subject Matter Expert (SME) includes evaluating and verifying customised solutions, guiding projects within product boundaries, improving the product through active contribution and cultivating new SMEs.
 
-'Responsibilities also include conducting customer meetings to present / advocate proposed solutions and monitoring the effectiveness of implemented solutions. 
+Responsibilities also include conducting customer meetings to present / advocate proposed solutions and monitoring the effectiveness of implemented solutions. 
 
 
 ## :bank: Stakeholders
@@ -97,21 +97,20 @@ The role of Technical Architect/Subject Matter Expert (SME) includes evaluating 
 ## 🎯 Self management / Focus
 
 
-
 * You are friendly and pleasant to work with. You can resolve most of the personal conflicts by yourself – by reaching out and suggesting a conversation.
 
 * Helping others is the major part of your work day. You not only react to the help requests from your colleagues, but also actively search for the opportunities to help – within your squad, team or support team.
 
 * You proactively reach out to ask for feedback, for example after being team coordinator for a quarter you ask your team members for feedback
-
-* In your role as SME you often have to critique your colleagues' pieces of work or their choices and priorities. You do this in a patient, constructive and non-confrontational way. You look out that other colleagues do this as well and help mediate in difficult situations.
-
+* In your role as SME you often have to critique your colleagues' pieces of work or their choices and priorities. You do this in a patient, constructive and non-confrontational way. You look out that other colleagues do this as well and help mediate in difficult situations. 
 * You admit mistakes and learn from them
 
 
-## 💬 Hard Skills
+## :lock: Hard Skills
 
-* Knowledge of the company's product architecture and underlying technologies. 
+* Knowledge of the company's product architecture and underlying technologies.
+
+ 
 * Understanding of software development life cycles (SDLC), including Agile methodologies. 
 * Skills in database design, management, and query languages like SQL. 
 * Experience with analytics platforms or business intelligence software. 
