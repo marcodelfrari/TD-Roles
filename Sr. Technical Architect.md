@@ -1,9 +1,11 @@
 # Sr Technical Architect, SME 
 
 ## :pushpin: Summary
-The role of Technical Architect/Subject Matter Expert (SME) includes evaluating and verifying customised solutions, guiding projects within product boundaries, improving the product through active contribution and cultivating new SMEs.
+Il ruolo di Technical Architect/Subject Matter Expert (SME) include la valutazione e la validazione di soluzioni personalizzate, la direzione di progetti seguendo le linee guida del prodotto e il contributo attivo al miglioramento del prodotto attraverso la roadmap.
 
-Responsibilities also include conducting customer meetings to present / advocate proposed solutions and monitoring the effectiveness of implemented solutions. 
+Le responsabilità includono anche la gestione di riunioni con i clienti per presentare e supportare le soluzioni proposte, nonché il monitoraggio dell'efficienza delle soluzioni implementate.
+
+In aggiunta, il ruolo richiede la gestione di percorsi formativi tecnici sia interni (per la creazione di nuovi SME), sia esterni, rivolti a partner e clienti che richiedono formazione.
 
 From Career Framework:
 - Owns and defines the solution of a complex portfolio of medium-to-large-sized complex projects/programs 
@@ -29,81 +31,88 @@ From Career Framework:
 
 **Solution Assurance** 
 
-> Evaluation and validation of custom solutions to ensure adherence to
- technical and product guidelines.
+> Valutazione e validazione delle soluzioni personalizzate per garantire la conformità alle linee guida tecniche e del prodotto.
 
- - [ ] All the complex project solutions has been fully reviewed against the project's technical requirements and product guidelines.
+- [ ] Tutte le soluzioni dei progetti complessi sono state completamente esaminate in conformità con i requisiti tecnici del progetto e le linee guida del prodotto. 
 
- - [ ] Ensured a seamless upgrade path for the custom solution with respect to future versions of our product.
+- [ ] Le soluzioni personalizzate devono garantire un seamless upgrade alle future versioni del nostro prodotto. Dove non sia possibile, verrà opportunatamente evidenziato l'impatto futuro. 
 
- - [ ] If there are disagreements with the client over the proposed solution, clear communication is made regarding the risks and future impacts.
+- [ ] In caso di disaccordi con il cliente sulla soluzione proposta, viene fornita una comunicazione chiara riguardo ai rischi e agli impatti futuri, andando a discuterne in opportuni meeting front-facing.
 
 
-**Product orientation** 
+**Product oriented** 
 
-> steering project efforts towards leveraging pre-existing solutions and product features to enhance efficiency and maintain uniformity
+> Indirizzamento gli sforzi del progetto verso l'utilizzo di funzionalità del prodotto per aumentare l'efficienza e mantenere uniformità.
 
-- [ ] A comprehensive inventory of existing custom solutions has been conducted, documented and constantly updated.
+- [ ] È stato creato un inventario completo delle soluzioni personalizzate esistenti e viene costantemente aggiornato.
 
- - [ ] For any new customization, a clear justification that outlines the necessity and the absence of existing feature capabilities has been documented.
+ - [ ] Per ogni nuova personalizzazione, è stata documentata una chiara giustificazione che delinea la necessità e l'assenza di tale feature nel prodotto esistente.
 
- - [ ] An analysis has been completed to assess the added complexity due to new customization. Mitigation strategies are in place to manage and minimize the identified complexity.
+ - [ ] È stata completata un'analisi per valutare la complessità aggiunta a causa della nuova personalizzazione. Sono state messe in atto strategie di mitigazione per ridurre la complessità identificata.
 
- - [ ] Several initiatives have been launched to raise awareness among the practice's team members about focusing on product functionalities, with the aim of disseminating knowledge and approaches.
+ - [ ] Sono state avviate diverse iniziative per sensibilizzare i membri del team della pratica sull'importanza di focalizzarsi sulle funzionalità del prodotto, con lo scopo di diffondere conoscenze e approcci.
 
 **Customer Facing** 
 
-> Facilitating client discussions to articulate and advocate for the proposed solutions, offering technical assistance, and responding to queries
+> Facilitare le discussioni con i clienti per articolare e sostenere le soluzioni proposte, offrendo assistenza tecnica e rispondendo alle domande
 
- - [ ] If there are any doubts about the proposed technical solution, the Technical Architect is available to clarify the reasons with the customer.
+ - [ ] In caso di dubbi sulla soluzione tecnica proposta, il Technical Architect è disponibile per chiarire i motivi con il cliente.
 
- - [ ] The proposed solutions have been clearly articulated and presented to the client, with visual aids or demonstrations as needed.
-
- - [ ] A log of queries and responses is maintained for future reference and continuous improvement.
+ - [ ] Viene mantenuto un registro di domande e risposte per riferimenti futuri e miglioramento continuo.
 
 **Growth of the team** 
 
-> Training new Technical Architects through various initiatives, such as on-the-job training, and the collection and dissemination of appropriate technical knowledge
+> Formazione dei nuovi Technical Architects attraverso varie iniziative, come training-on-the-job e la raccolta/diffusione di conoscenze tecniche di prodotto
 
+ - [ ] È stato sviluppato un programma di formazione completo per i Technical Architects, che include moduli training-on-the-job e aree di conoscenza tecnica fondamentali.
 
- - [ ] A comprehensive training program for Technical Architects has been developed, including on-the-job training modules and key technical knowledge areas.
+ - [ ] Sono stati raccolti feedback dai partecipanti riguardo l'esperienza e i contenuti della formazione.
 
- - [ ] Feedback has been collected from trainees on the training experience and content.
+ - [ ] Sono state selezionate persone per intraprendere il percorso verso il ruolo di Technical Architect: per loro è stato stabilito un programma di sviluppo tecnico personalizzato.
 
- - [ ] Individuals have been selected to pursue a journey toward becoming Technical Architects, and a tailored technical development program has been established for them.
-
+ - [ ]  Le statistiche relative alle competenze di prodotto della preactice, sono aumentate in modo significativo 
+ 
 **Partner evangelist** 
 
-> Helps partners adopt and maximise the benefits of our platform offerings
+> Supporto verso i partner per adottare e massimizzare i benefici del nostro prodotto.
 
- - [ ] Onboarding success is measured by partners' ability to navigate and use the platform independently.
+ - [ ] Per ogni nuovo corso di formazione, esiste già un piano predefinito, comprensivo di formatori, agenda e materiale didattico.
 
- - [ ] The effectiveness of training programs for partners has been evaluated through assessments or surveys.
+ - [ ] L'efficacia dei programmi di formazione per i partner è stata valutata tramite valutazioni o sondaggi.
 
- - [ ] Necessary improvements have been identified and implemented based on partner feedback.
+ - [ ] Sono stati identificati e implementati i miglioramenti necessari in base al feedback dei partner.
+
+**CSG & Product team** 
+> Siamo un'azienda focalizzata sul prodotto, pertanto è essenziale che il CSG e il team del prodotto collaborino strettamente ed efficientemente, procedendo nella stessa direzione
+
+- [ ] Sono stati stabiliti dei processi specifici per la gestione degli aspetti tecnici fra CSG e Product.
+
+- [ ] Ogni criticità riscontrata nei processi è stata affrontata proattivamente, proponendo diverse soluzioni e trovando il giusto equilibrio tra le due aree. L'approccio adottato è sempre stato aperto e collaborativo.
 
 **Product contribution** 
 
-> Suggestion of new features based on feedback from the projects, improvement of the user experience, performance optimisation, bug fixing and user-driven refinement
+> Proposta di nuove funzionalità basate sul feedback ricevuto dai progetti, miglioramento dell'esperienza utente, ottimizzazione delle prestazioni, correzione di bug e perfezionamento guidato dall'utente
 
- - [ ] A prioritized list of these suggestions has been created based on potential impact and alignment with product strategy.
+ - [ ] È stata creata una lista prioritaria di queste proposte, basata sull'impatto potenziale e sull'allineamento con la strategia del prodotto.
 
- - [ ] Product performance bottlenecks were identified and pro-actively shared with the product team.
+ - [ ] I colli di bottiglia delle prestazioni del prodotto sono stati identificati e condivisi pro-attivamente con il team di prodotto.
 
 **Solution Impact Analysis** 
 
-> Tracking and appraising the performance of deployed solutions, collecting user feedback, and proposing necessary refinements for enhancement
+> Monitoraggio e valutazione delle prestazioni delle soluzioni implementate, raccolta di feedback degli utenti e proposta di perfezionamenti necessari per il miglioramento
 
- - [ ] Specific, measurable performance metrics for the deployed solutions have been defined and agreed upon.
+ - [ ] Sono stati definiti e concordati parametri di prestazione specifici e misurabili per le soluzioni implementate.
 
- - [ ] A monitoring plan has been established to observe the solution's performance and quickly identify any issues post-deployment.
+ - [ ] È stato stabilito un piano di monitoraggio per osservare le prestazioni della soluzione e identificare rapidamente eventuali problemi dopo l'implementazione.
 
- - [ ] Based on performance data and user feedback, a list of proposed refinements for the solution has been developed
+ - [ ] Sulla base dei dati di prestazione e del feedback degli utenti, per ogni soluzione è stata sviluppata una lista di perfezionamenti.
 
+ - [ ] Ogni miglioramento individuato è stato analizzato per una potenziale adozione sul prodotto.
 
 
 ## 🎯 Self management / Focus
 
+* Schiacciala bene
 
 * You are friendly and pleasant to work with. You can resolve most of the personal conflicts by yourself – by reaching out and suggesting a conversation.
 
