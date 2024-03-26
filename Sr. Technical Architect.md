@@ -42,7 +42,7 @@ From Career Framework:
 
 **Product oriented** 
 
-> Indirizzamento gli sforzi del progetto verso l'utilizzo di funzionalità del prodotto per aumentare l'efficienza e mantenere uniformità.
+> Indirizzamento degli gli sforzi del progetto verso l'utilizzo di funzionalità del prodotto per aumentare l'efficienza e mantenere uniformità.
 
 - [ ] È stato creato un inventario completo delle soluzioni personalizzate esistenti e viene costantemente aggiornato.
 
